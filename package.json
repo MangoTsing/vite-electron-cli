@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "vite-electron-cli quick template",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MangoTsing/vite-electron-cli"
+  },
   "bin": {
     "vitel": "./index.js"
   },
@@ -15,6 +19,10 @@
   ],
   "author": "mangotsing",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MangoTsing/vite-electron-cli/issues"
+  },
+  "homepage": "https://github.com/MangoTsing/vite-electron-cli#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.1.0",

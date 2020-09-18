@@ -8,6 +8,10 @@ This is a tool to quickly help users build simple Vite Vue3 TypeScript Electron 
 
 If you want to try it, you can see the following:
 
+## Install
+
+`npm i vite-electron-cli -g`
+
 ## How
 
 ```
