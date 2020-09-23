@@ -8,24 +8,16 @@ This is a tool to quickly help users build simple Vite Vue3 TypeScript Electron 
 
 If you want to try it, you can see the following:
 
-## Install
 
-`npm i vite-electron-cli -g`
 
 ## How
 
 ```
 
-vitel init <project_name>
-
-cd <project_name>
-
-yarn or npm i
-
-vitel dev
+yarn create vite-electron <project_name>
 
 ```
 
 ## Why
 
-Quickly
+Quickly Vite Electron

@@ -1,6 +1,6 @@
 {
   "name": "create-vite-electron",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "vite-electron-cli quick template",
   "main": "index.js",
   "repository": {
