@@ -13,6 +13,9 @@ If you want to try it, you can see the following:
 ## How
 
 ```
+npx create-vite-electron <project_name>
+
+or
 
 yarn create vite-electron <project_name>
 
